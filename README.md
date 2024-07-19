@@ -61,8 +61,6 @@ pip install pandas scikit-learn matplotlib seaborn
 ## 📝 Conclusão
 Este projeto fornece uma visão sobre como preparar dados para modelagem e avaliar o desempenho de um modelo de regressão. A análise dos resultados ajuda a entender a eficácia do modelo e identificar áreas para possíveis melhorias.
 
-## 📎 Referência
-O conjunto de dados utilizado foi obtido do Kaggle: Link para o conjunto de dados
 	
 ---
 
@@ -72,7 +70,7 @@ O conjunto de dados utilizado foi obtido do Kaggle: Link para o conjunto de dado
 ## 📚 About the Project
 This project aims to analyze a supermarket sales dataset and train a regression model to predict the total sales. The dataset was obtained from Kaggle, a popular platform for data science competitions and datasets.
 
-The dataset used can be found here.
+The dataset used can be found [here](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 
 ## 🔍 Preliminary Data Analysis
 Before training the model, a preliminary analysis of the data was conducted to ensure it was ready for modeling:
@@ -118,6 +116,3 @@ pip install pandas scikit-learn matplotlib seaborn
 ```
 ## 📝 Conclusion
 This project provides insight into preparing data for modeling and evaluating the performance of a regression model. The analysis of the results helps to understand the model's effectiveness and identify areas for potential improvement.
-
-## 📎 Reference
-The dataset used was obtained from Kaggle: [Link to the dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
